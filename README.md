@@ -1,2 +1,2 @@
 # trafficSignClassifier
-<p> More information about the project is wrritten inside the Project.pdf file. </p>
+<p> More information about the project is wrritten inside the Project-2.pdf file. </p>
